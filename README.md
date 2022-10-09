@@ -2,6 +2,11 @@
 ## 前言
 ### 项目概述
 在2021年12月21晚上上线的 cdnjs.cdn.zzko.cn Version 3.0 使用了30香港配合加速
+
+食用教程
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+替换为
+https://cdnjs.cdn.zzko.cn/ajax/libs/jquery/3.5.1/jquery.min.js
 不要去CC我 目前没有过多限制请求 每秒单ip是500Qps 我也相信不会触碰到某些人利益吧。。。公益行为 我也希望灰黑产业的大佬别搞我把静态资源随便引用到自己违法违规站点！，就相当于我为违法违规站提供服务，您搞违法的事情，就不要带上我了谢谢，大家都是中国人，中国人别为难中国人，谢谢
 
 
